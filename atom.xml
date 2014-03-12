@@ -4,7 +4,7 @@
   <title><![CDATA[Go Free]]></title>
   <link href="http://kazgcp.github.io/atom.xml" rel="self"/>
   <link href="http://kazgcp.github.io/"/>
-  <updated>2014-03-12T22:03:19+09:00</updated>
+  <updated>2014-03-12T22:08:12+09:00</updated>
   <id>http://kazgcp.github.io/</id>
   <author>
     <name><![CDATA[KazGrandcanyon]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello_world]]></title>
-    <link href="http://kazgcp.github.io/blog/2014/03/12/markdown_test/"/>
+    <link href="http://kazgcp.github.io/blog/2014/03/12/markdown-test/"/>
     <updated>2014-03-12T22:02:00+09:00</updated>
-    <id>http://kazgcp.github.io/blog/2014/03/12/markdown_test</id>
+    <id>http://kazgcp.github.io/blog/2014/03/12/markdown-test</id>
     <content type="html"><![CDATA[<h1>タイトル</h1>
 
 <h2>サブタイトル</h2>
