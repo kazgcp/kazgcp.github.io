@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Go Free]]></title>
-  <link href="http://kazgcp.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | Go Free]]></title>
+  <link href="http://kazgcp.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://kazgcp.github.io/"/>
   <updated>2014-03-12T22:03:19+09:00</updated>
   <id>http://kazgcp.github.io/</id>
@@ -39,15 +39,6 @@
 
 <blockquote><p>引用ネスト
 <a href="http://www.google.com" title="リンク先">リンク</a></p></blockquote></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Hello_world]]></title>
-    <link href="http://kazgcp.github.io/blog/2014/03/01/hello-world/"/>
-    <updated>2014-03-01T23:06:42+09:00</updated>
-    <id>http://kazgcp.github.io/blog/2014/03/01/hello-world</id>
-    <content type="html"><![CDATA[<p>test test test</p>
 ]]></content>
   </entry>
   
