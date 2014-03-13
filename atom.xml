@@ -4,7 +4,7 @@
   <title><![CDATA[Go Free]]></title>
   <link href="http://kazgcp.github.io/atom.xml" rel="self"/>
   <link href="http://kazgcp.github.io/"/>
-  <updated>2014-03-12T22:13:41+09:00</updated>
+  <updated>2014-03-13T20:14:53+09:00</updated>
   <id>http://kazgcp.github.io/</id>
   <author>
     <name><![CDATA[KazGrandcanyon]]></name>
@@ -14,26 +14,29 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello_world]]></title>
+    <title type="html"><![CDATA[Markdown Test]]></title>
     <link href="http://kazgcp.github.io/blog/2014/03/12/markdown-test/"/>
-    <updated>2014-03-12T22:02:00+09:00</updated>
+    <updated>2014-03-12T22:24:52+09:00</updated>
     <id>http://kazgcp.github.io/blog/2014/03/12/markdown-test</id>
     <content type="html"><![CDATA[<h1>タイトル</h1>
 
 <h2>サブタイトル</h2>
 
-<p>本文本文本文本文本文本文本文本文本文  本文本文本文本文本文本文本文本文本文
+<p>本文本文本文本文本文本文本文本文本文　　本文本文本文本文本文本文本文本文本文　　
 * リスト
 * リスト
 1. 数字リスト
 2. 数字リスト
 <em>斜体</em>
-<strong>太字</strong>
-&lsquo;&rsquo;&lsquo;
-コード
-コード
-コード
-&rsquo;&lsquo;&rsquo;</p>
+<strong>太字</strong></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>コード
+</span><span class='line'>コード
+</span><span class='line'>コード</span></code></pre></td></tr></table></div></figure>
+
 
 <blockquote><p>引用</p>
 
