@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://kazgcp.github.io/sitemap.xml 
+Sitemap: http://www.xeducation.net/sitemap.xml 
