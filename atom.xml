@@ -4,7 +4,7 @@
   <title><![CDATA[xeducation]]></title>
   <link href="http://www.xeducation.net/atom.xml" rel="self"/>
   <link href="http://www.xeducation.net/"/>
-  <updated>2014-03-15T00:39:34+09:00</updated>
+  <updated>2014-03-15T11:57:25+09:00</updated>
   <id>http://www.xeducation.net/</id>
   <author>
     <name><![CDATA[KazGrandcanyon]]></name>
@@ -12,46 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[markdown test]]></title>
-    <link href="http://www.xeducation.net/blog/2014/03/12/markdown-test/"/>
-    <updated>2014-03-12T22:24:52+09:00</updated>
-    <id>http://www.xeducation.net/blog/2014/03/12/markdown-test</id>
-    <content type="html"><![CDATA[<h1>タイトル</h1>
-
-<h2>サブタイトル</h2>
-
-<p>本文本文本文本文本文本文本文本文本文　　本文本文本文本文本文本文本文本文本文　　
-* リスト
-* リスト
-1. 数字リスト
-2. 数字リスト
-<em>斜体</em>
-<strong>太字</strong></p>
-
-<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-<span class='line-number'>2</span>
-<span class='line-number'>3</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>コード
-</span><span class='line'>コード
-</span><span class='line'>コード</span></code></pre></td></tr></table></div></figure>
-
-
-<blockquote><p>引用</p>
-
-<blockquote><p>引用ネスト
-<a href="http://www.google.com" title="リンク先">リンク</a></p></blockquote></blockquote>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[hello_world]]></title>
-    <link href="http://www.xeducation.net/blog/2014/03/01/hello-world/"/>
-    <updated>2014-03-01T23:06:42+09:00</updated>
-    <id>http://www.xeducation.net/blog/2014/03/01/hello-world</id>
-    <content type="html"><![CDATA[<p>test test test</p>
-]]></content>
-  </entry>
   
 </feed>
