@@ -4,7 +4,7 @@
   <title><![CDATA[xeducation]]></title>
   <link href="http://www.xeducation.net/atom.xml" rel="self"/>
   <link href="http://www.xeducation.net/"/>
-  <updated>2014-06-05T23:00:27+09:00</updated>
+  <updated>2014-06-05T23:03:49+09:00</updated>
   <id>http://www.xeducation.net/</id>
   <author>
     <name><![CDATA[KazGrandcanyon]]></name>
@@ -12,40 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[教育と私]]></title>
-    <link href="http://www.xeducation.net/blog/2014/06/03/new-post/"/>
-    <updated>2014-06-03T20:30:00+09:00</updated>
-    <id>http://www.xeducation.net/blog/2014/06/03/new-post</id>
-    <content type="html"><![CDATA[<h2>友人「ラーニングって、食っていけるの？」、私「…」</h2>
-
-<p>会社訪問でも、日常の会話でも「なんで今、Online Educationなの？」って聞かれることが多いです。
-自分でもまだ言語化されていないところもあるのですが、自分的に気になるのは以下の3つです。</p>
-
-<ol>
-<li><p>身体上、宗教上や経済上の理由で、
-個人的に言えば、育児中だから。金が無い、時間が無い。言語の壁はあるけれど、ニーズとしては普遍的なものだし。さまざまな理由で教育を受けられない人に機会を提供できる
-自分ラクしたいですし、安く教育受けたいです。子供にもそうしたいです。たぶん世界中そう思っている人たくさんいるだろうなあと。で、その後の世界を見てみたいなあと。</p></li>
-<li><p>自分が使いたい究極的なサービス形態がまだ登場して無いからとか言うと、本当に身の程知らずですが、誰しもラクして賢くなりたいし、共感できる気づきは共有したい。でも、単にソーシャルという以上の「協力＋共有」って、具体的にサービスに落とし込めるだろうかって考えると楽しくて夜も眠れません（でも、やっぱり寝るけど）。</p></li>
-<li><p>MOOCSの普及など、やっとコンテンツマーケットとして教育サービスが脚光を浴び始めたけれど、依然レガシーな障壁は多いので、逆に開拓の余地があるかも（単純に労多くして…状態だから、放置されている可能性もある）。</p></li>
-</ol>
-
-
-<p>最後に個人的な背景を振り返ってみると、単純に自分が学歴コンプレックスの塊なので、いまでも勉強にしがみついているということもあるかと思います。でも、コンプレックスがあるから頑張れるというか、この年齢になると、負のエネルギーでも何でも燃料は大事かなとも思います。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[初投稿]]></title>
-    <link href="http://www.xeducation.net/blog/2014/06/03/new-post/"/>
-    <updated>2014-06-03T20:30:00+09:00</updated>
-    <id>http://www.xeducation.net/blog/2014/06/03/new-post</id>
-    <content type="html"><![CDATA[<h2>「勇者にも無敵の人にもなれなかった俺は、しぶしぶ転職を決意してはや何年」</h2>
-
-<p>フルスタックエンジニアとかいう超人に近づいて、「43歳のハローワーク」状態から抜け出したいです。もっぱら学習ログです。現職がそっち系なので、たまに気になるEdutechサービスについて、気になった情報をpostするかもしれません。</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[投稿テスト]]></title>
