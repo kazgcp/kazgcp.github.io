@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[xeducation]]></title>
-  <link href="http://www.xeducation.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: misc | xeducation]]></title>
+  <link href="http://www.xeducation.net/blog/categories/misc/atom.xml" rel="self"/>
   <link href="http://www.xeducation.net/"/>
   <updated>2014-06-05T23:00:27+09:00</updated>
   <id>http://www.xeducation.net/</id>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[初投稿]]></title>
+    <link href="http://www.xeducation.net/blog/2014/06/03/new-post/"/>
+    <updated>2014-06-03T20:30:00+09:00</updated>
+    <id>http://www.xeducation.net/blog/2014/06/03/new-post</id>
+    <content type="html"><![CDATA[<h2>「勇者にも無敵の人にもなれなかった俺は、しぶしぶ転職を決意してはや何年」</h2>
+
+<p>フルスタックエンジニアとかいう超人に近づいて、「43歳のハローワーク」状態から抜け出したいです。もっぱら学習ログです。現職がそっち系なので、たまに気になるEdutechサービスについて、気になった情報をpostするかもしれません。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[教育と私]]></title>
@@ -33,30 +44,6 @@
 
 
 <p>最後に個人的な背景を振り返ってみると、単純に自分が学歴コンプレックスの塊なので、いまでも勉強にしがみついているということもあるかと思います。でも、コンプレックスがあるから頑張れるというか、この年齢になると、負のエネルギーでも何でも燃料は大事かなとも思います。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[初投稿]]></title>
-    <link href="http://www.xeducation.net/blog/2014/06/03/new-post/"/>
-    <updated>2014-06-03T20:30:00+09:00</updated>
-    <id>http://www.xeducation.net/blog/2014/06/03/new-post</id>
-    <content type="html"><![CDATA[<h2>「勇者にも無敵の人にもなれなかった俺は、しぶしぶ転職を決意してはや何年」</h2>
-
-<p>フルスタックエンジニアとかいう超人に近づいて、「43歳のハローワーク」状態から抜け出したいです。もっぱら学習ログです。現職がそっち系なので、たまに気になるEdutechサービスについて、気になった情報をpostするかもしれません。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[投稿テスト]]></title>
-    <link href="http://www.xeducation.net/blog/2014/06/02/new-post/"/>
-    <updated>2014-06-02T20:20:00+09:00</updated>
-    <id>http://www.xeducation.net/blog/2014/06/02/new-post</id>
-    <content type="html"><![CDATA[<h1>投稿テスト</h1>
-
-<h2>テストは続くよいつまでも</h2>
-
-<p>最後のテストになりますように。</p>
 ]]></content>
   </entry>
   
