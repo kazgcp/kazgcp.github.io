@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[xeducation]]></title>
-  <link href="http://www.xeducation.net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: schoo | xeducation]]></title>
+  <link href="http://www.xeducation.net/blog/categories/schoo/atom.xml" rel="self"/>
   <link href="http://www.xeducation.net/"/>
   <updated>2014-06-07T21:56:35+09:00</updated>
   <id>http://www.xeducation.net/</id>
@@ -27,17 +27,6 @@
 <a href="http://schoo.jp/">スクー</a> はUIが凄いなと思いました。ソーシャルの組み込み方が神がかっている。自分が教育サービスやるなら、もうこのシステムに乗っかってコンテンツだけ配信するだけでいいんじゃないかとか圧倒されました。</p>
 
 <p>というわけで、これからスクーの学習ログについてpostしていく予定です。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[初投稿]]></title>
-    <link href="http://www.xeducation.net/blog/2014/06/05/new-post/"/>
-    <updated>2014-06-05T23:55:00+09:00</updated>
-    <id>http://www.xeducation.net/blog/2014/06/05/new-post</id>
-    <content type="html"><![CDATA[<h2>もっぱら学習ログです。</h2>
-
-<p>テーマを変更してみたり、Octopressのデフォルトのデザインに戻りたいなとかいじっているうちに、すっかり遅れてしまいました。しかも、戻すのも面倒になってしまいそのままです。自分にはかわいすぎるかなと思ったのですが、中身（テキスト）が大事だろ！ということでこのままで行きます。ただで勉強して、フルスタックエンジニアとかいう超人に近づいて、「43歳のハローワーク」状態から抜け出したいです。現職がそっち系なので、たまに気になる教育系サービスについて、気になった情報をpostするかもしれません。</p>
 ]]></content>
   </entry>
   
