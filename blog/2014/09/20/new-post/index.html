@@ -1,0 +1,192 @@
+
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>スクーでウェブデザインのリハビリ vol.3 - xeducation</title>
+	<meta name="author" content="KazGrandcanyon">
+
+	
+	<meta name="description" content="スクーでウェブデザインのリハビリ vol.3 CSSについて復習 どうしてこんなにフォントサイズが大きいのでしたっけ。直そう直そうと思いつつ直す時間がありません。小さい字が読みにくくなってくるお年頃なので、それはそれで悪くないのかもしれませんが…基礎科目から開始すると前回宣言したので、律儀に1- &hellip;">
+	
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link href="/atom.xml" rel="alternate" title="xeducation" type="application/atom+xml">
+	
+	<link rel="canonical" href="http://www.xeducation.net/blog/2014/09/20/new-post/">
+	<link href="/favicon.png" rel="shortcut icon">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/font-awesome.min.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css'>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	test
+  
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-48963206-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+
+  <meta name="google-translate-customization" content="11db71a89727211d-f8548fd8ddcfcea7-ga2c3666d13f0ee11-12"></meta>
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'ja', layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL, multilanguagePage: true, gaTrack: true, gaId: 'UA-48963206-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</head>
+
+
+<body>
+	<div class="container">
+		<div class="left-col">
+			<div class="intrude-less">
+			<header id="header" class="inner"><div class="profilepic">
+	
+	<img src="http://www.gravatar.com/avatar/887f7244a5dede8cad785e2ffb12dc8c?s=160" alt="Profile Picture" style="width: 160px;" />
+	
+</div>
+
+<nav id="main-nav"><p><h1 class-""title>xeducation</h1></p>
+<p>ただで学習できるサイトが流行っているというので試してみた。</P>
+<ul class="main">
+    <li><a href="/">Blog</a></li>
+    <li><a href="http://about.me/kazgcp">About</a></li>
+    <li><a href="/blog/archives">Archives</a></li>
+</ul>
+
+</nav>
+<nav id="sub-nav">
+	<div class="social">
+		
+		
+		
+		
+			<a class="twitter" href="http://twitter.com/KazGrandcanyon" title="Twitter">Twitter</a>
+		
+		
+			<a class="github" href="https://github.com/kazgcp" title="GitHub">GitHub</a>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+    	
+    	
+			<a class="rss" href="/atom.xml" title="RSS">RSS</a>
+		
+	</div>
+</nav>
+</header>				
+			</div>
+		</div>	
+		<div class="mid-col">
+			
+				
+			
+			<div class="mid-col-container">
+				<div id="content" class="inner"><article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	<h1 class="title" itemprop="name">スクーでウェブデザインのリハビリ vol.3</h1>
+	<div class="entry-content" itemprop="articleBody"><h2>CSSについて復習</h2>
+
+<p>どうしてこんなにフォントサイズが大きいのでしたっけ。直そう直そうと思いつつ直す時間がありません。小さい字が読みにくくなってくるお年頃なので、それはそれで悪くないのかもしれませんが…<a href="https://schoo.jp/design">基礎科目</a>から開始すると前回宣言したので、律儀に<a href="http://schoo.jp/class/689">1-1.Webデザインの骨組み「ワイヤーフレーム」を学ぼう</a>から学習を始めたのですが、この授業と<a href="http://schoo.jp/class/716">1-2.Webデザインの骨組み「ワイヤーフレーム」を学ぼう【制作編】</a>、<a href="http://schoo.jp/class/717">1-3.Webデザインの骨組み「ワイヤーフレーム」を学ぼう【完成編】</a>は、タイトルを見てわかる通り、ワイヤーフレームについての説明と実技の授業なのでスキップすることにしました。後で時間のある時に見てみます。</p>
+
+<p>今週、出席した授業は<a href="http://schoo.jp/class/775">2-1.Webデザインを始めたい方に贈る、「HTMLとCSSって何」【概要理解とツール導入】</a>、<a href="http://schoo.jp/class/776">2-2.Webデザインを始めたい方に贈る、「HTML文書を正しい構文で組み立てる」必要スキル【HTML編】</a>です。普段なんとなく惰性で使ってしまっているCSSですが、この際、理解が曖昧な部分をしっかりと習得したいですね。</p>
+
+<p><a href="http://schoo.jp/class/775">2-1.Webデザインを始めたい方に贈る、「HTMLとCSSって何」【概要理解とツール導入】</a>の内容は、どちらかというとDreamWeaverの設定の話が中心です。初心者対象ということで、自動入力・自動補完の機能があるDreamWeaverを選ばれたんだと思います。私自身はメニューの数が多いとかえって迷ってしまいがちなので、Sublimeの方が好きですが、制作会社でのシェアがそれなりにあるなら、覚えておいて損は無いでしょう。実際に制作する際の設定のコツが実用的で良かったです。動画の中で自分がすでに理解しているトピックは、チャプターを使ってスキップできるので便利です。チャプターがあるかないかは学習を効率良く進めるためにも、継続意欲をdisruptしないためにも重要な要素。生放送だとこの機能はやはり無いんですよね？きっと。生放送ではリアルタイムで質問できるメリットがありますけどね。ところで再放送でも着席ボタンって有効なんですね。せっかくなので、記念着席しておきました。</p>
+
+<p><a href="http://schoo.jp/class/776">2-2.Webデザインを始めたい方に贈る、「HTML文書を正しい構文で組み立てる」必要スキル【HTML編】</a>では、実際にスタイルシートを適用してみるところまでの範囲です。30分の授業なので、忙しい毎日の中でどうにかやりくりできる限界ギリギリですが、継続して学習するにはちょうど良い時間ですね。ただモバイルで移動中の隙間時間で学習しようと思うと、10分でも長いでしょうか。ひとつの授業を数回に分けて、一時停止しながら見ていくのが良いのかしら。まだ、試してないけど…。CSSの基本はすでに理解している内容なので、やはりDreamWeaverで制作する際の手順を中心に見ていきました。画面右側にコメントや質問のタイムラインが表示されるのですが、その中で紹介されていた、CSSをもっと詳しく学習したい人用の外部サイト紹介が便利そうです（授業用スライド内にも紹介があります）。授業の本筋からスピンアウトして、さらに知の共有が発展していく感じが良いですね。</p>
+
+<p>こんな感じで気になるところだけ、つまみ食い学習を継続して行きたいと思います。</p>
+</div>
+
+</article>
+
+	<div class="share">
+	<div class="addthis_toolbox addthis_default_style ">
+	
+	<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+	
+	
+	<a class="addthis_button_tweet"></a>
+	
+	
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid="></script>
+</div>
+
+
+
+<section id="comment">
+    <h1 class="title">Comments</h1>
+    <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+</section>
+<div id="google_translate_element">
+</div>
+			</div>
+
+			<footer id="footer" class="inner">Copyright &copy; 2014
+
+    KazGrandcanyon
+
+
+Design credit: <a href="http://shashankmehta.in/archive/2012/greyshade.html">Shashank Mehta</a>
+<section>
+<style>
+.xeducation { width: 320px; height: 50px; }
+@media(min-width: 500px) { .xeducation { width: 468px; height: 60px; } }
+@media(min-width: 800px) { .xeducation { width: 728px; height: 90px; } }
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- xeducation -->
+<ins class="adsbygoogle xeducation"
+     style="display:inline-block"
+     data-ad-client="ca-pub-1439095798509528"
+     data-ad-slot="7404619847"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</section>
+
+
+<script type="text/javascript">
+      var disqus_shortname = 'xeducation';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.xeducation.net/blog/2014/09/20/new-post/';
+        var disqus_url = 'http://www.xeducation.net/blog/2014/09/20/new-post/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+</footer>
+		</div>
+	</div>
+</body>
+</html>
